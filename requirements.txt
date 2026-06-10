@@ -36,3 +36,5 @@ youtube-search
 youtube-search-python
 pyjokes
 lyricsgenius
+Flask
+gunicorn==20.1.0
