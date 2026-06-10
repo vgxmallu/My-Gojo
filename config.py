@@ -52,6 +52,6 @@ class config:
     Movie_RAC = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1ZDMyNzRjM2JiMDhiNDI3NjQ4MjQzNmM4NDQ0YWJjMCIsIm5iZiI6MTczMzIyMjgxMy42OTQwMDAyLCJzdWIiOiI2NzRlZTE5ZDJjZTRjZTdkZDYwOTU2YjAiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.aXfQw0_CRrKl2iSJd9tFE1TVbWWVYNgysWkUVlwzyRg"
     Pokedex = "https://sugoi-api.vercel.app/pokemon?name={name_or_id}"
     OPENAI_KEY = "xx" #Get From Open Ai's Website
-    LYRICS_GENIUS_TOKEN = "x-x" #Get From Genius.com
+    LYRICS_GENIUS_TOKEN = "PcDiInntR7YxmOuOsqXUVQVsXHj8w81YkUsJ8JDHBF3OclJOOcgq3YSev2abPRgR" #Get From Genius.com
 
 
