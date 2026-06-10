@@ -1,3 +1,4 @@
+"""
 from pyrogram import filters
 from Nobara.imgloader import downloader
 import os
@@ -57,7 +58,7 @@ async def download_images(client, message : Message):
 
     except Exception as e:
         await message.reply(f"𝖠𝗇 𝖾𝗋𝗋𝗈𝗋 𝗈𝖼𝖼𝗎𝗋𝗋𝖾𝖽 : {e}")
-
+"""
 
 __module__ = "𝖨𝗆𝖺𝗀𝖾"
 
