@@ -1,12 +1,12 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
-    BOT_TOKEN = "0:0-0"
+    API_ID = 11984338
+    API_HASH = "ea4cb0f090d7366f7e4ab9dfc116acc7"
+    BOT_TOKEN = "6949951245:AAGxrJkvGQvlhsT3KuAaE2EWQikQDE9tXDs"
     BOT_NAME = "Your_Bot_Name"
     BOT_USERNAME = "Your_Bot_Username"
-    BOT_ID = 0
+    BOT_ID = 6949951245
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -19,13 +19,13 @@ class config:
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 5630057244
+    OWNER_ID = 784589736
     OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
+    SUPPORT_CHAT = -1001997285269
     SUPPORT_CHAT_USERNAME = "Domihoes"
     SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    LOG_CHANNEL = -1001997285269
+    ERROR_LOG_CHANNEL = -1001997285269
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
@@ -36,8 +36,8 @@ class config:
     
     
     #Database
-    MONGODB_URI = "mongodb://localhost:27017" # Use Local Hosted Or Atlas !!
-    DATABASE_NAME = "Frieren"
+    MONGODB_URI = "mongodb+srv://Hydra92074:Hydra92074@cluster0.ktfkf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" # Use Local Hosted Or Atlas !!
+    DATABASE_NAME = "gojojej"
 
     #API
     ARQ_API_KEY = "RLWCED-WZASYO-AWOLTB-ITBWTP-ARQ"
